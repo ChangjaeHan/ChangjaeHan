@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChangjaeHan
+- 👋 Hi, I’m @ChangjaeHan ISFJ
 - 👀 I’m interested in machine learning, game designing, etc
 - 🌱 I’m currently learning c++, java
 - 💞️ I’m looking to collaborate on TBD
