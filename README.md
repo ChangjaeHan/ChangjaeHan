@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ChangjaeHan ISFJ
-- 👀 I’m interested in system design & game making & AI
+- 👋 Hi, I’m @ChangjaeHan ISFJ (I 50% E 50%)
 - 🌱 I’m currently learning c++, python
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me : hcj1504@gmail.com
