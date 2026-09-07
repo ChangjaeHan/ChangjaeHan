@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChangjaeHan
-- 🌱 I’m currently learning c++, python
+- 🌱 I’m currently learning c++, typescript
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me : hcj1504@gmail.com
 
